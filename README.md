@@ -24,7 +24,7 @@ sudo apt-get install dnsmasq hostapd
 git clone https://github.com/flmann/RaspberryPiWifi
 ```
 
-All config changed can be made in the project folder. The script creates symbolic links to the config files in the system directories.
+All config changes can be made in the project folder. The script creates symbolic links to the config files in the system directories.
 
 ### Adjust config files
 
