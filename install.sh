@@ -2,7 +2,7 @@
 
 CONFIG_FILES_ROOT=$(pwd)
 
-ROOT_DIR=$"/home/pi/test"
+ROOT_DIR=$""
 
 set -e
 
