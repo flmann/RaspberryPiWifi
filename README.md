@@ -83,7 +83,7 @@ rsn_pairwise=CCMP
 
 The script scans all directories for files ending in _.link_ For all those a symbolic link will be created in the respective system directory. The project root will be kept relative to the system root. If you want to add an additional config file create the target system path at the project root and add _.link_ to the end of the file.
 
-	Known Problem syntax highlighting will not work with _.link_ files
+* Known Problem: syntax highlighting will not work with _.link_ files
 
 ### Installation with install.sh
 
